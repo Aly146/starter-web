@@ -6,7 +6,10 @@ This is a simple website project
 
 This is an example 
 ## Purpose
+main purpose is to provide simple examples
 
 ## Deployment
+
+This is a web project
 
 ## How to Contribute
