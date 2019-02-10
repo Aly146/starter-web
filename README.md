@@ -14,6 +14,8 @@ This is a web project
 
 ## How to Contribute
 
+please fork this repository
+
 ### Copyright
 
 2014 Git.Training.
