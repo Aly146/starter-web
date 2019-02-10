@@ -13,3 +13,7 @@ main purpose is to provide simple examples
 This is a web project
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training.
