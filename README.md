@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project adding a line for rebasing example
+This is a simple website project adding a line for rebasing example. adding a line
 
 ## Introduction
 
